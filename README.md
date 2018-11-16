@@ -1,26 +1,12 @@
-# Shell_scripting
-Shell_scripting fun example during Linux OS class with my students
 
-[Weather](weather.md)
---- 
-
-* 15-11-2018 Thu PM 6:26 PST   : 10-11°C (York, United Kingdom)
-* 15-11-2018 Thu PM 6:28 PST   : 10-11°C (York, United Kingdom)
-* 15-11-2018 Thu PM 6:28 PST   : 10-11°C (York, United Kingdom)
-* 15-11-2018 Thu PM 6:29 PST   : 10-11°C (York, United Kingdom)
-* 15-11-2018 Thu PM 6:32 PST   : 10-11°C (York, United Kingdom)
-* 15-11-2018 Thu PM 6:32 PST   : 10-11°C (York, United Kingdom)
-* 16-11-2018 Fri AM  2:45 GMT   : 10-11°C (York, United Kingdom)
-* 16-11-2018 Fri AM  2:45 GMT   : 10-11°C (York, United Kingdom)
-* 16-11-2018 Fri AM  2:48 GMT   : 10-11°C (York, United Kingdom)
-* 16-11-2018 Fri AM  2:50 GMT   : 10-11°C (York, United Kingdom)
-* 16-11-2018 Fri AM  2:51 GMT   : 10-11°C (York, United Kingdom)
-* 16-11-2018 Fri AM  2:51 GMT   : 10-11°C (York, United Kingdom)
-* 16-11-2018 Fri AM  2:51 GMT   : 10-11°C (York, United Kingdom)
-* 16-11-2018 Fri AM  2:55 GMT   : 10-11°C (York, United Kingdom)
-* 16-11-2018 Fri AM  2:55 GMT   : 10-11°C (York, United Kingdom)
-* 16-11-2018 Fri AM  2:59 GMT   : 10-11°C (York, United Kingdom)
-* 16-11-2018 Fri AM  3:04 GMT   : 10-11°C (York, United Kingdom)
-* 16-11-2018 Fri AM  3:14 GMT   : 10-11°C (York, United Kingdom)
-* 16-11-2018 Fri AM  4:57 GMT   : 10-11°C (York, United Kingdom)
-* 16-11-2018 Fri AM 11:30 GMT   : 10-11°C (Coventry, United Kingdom)
+* 16-11-2018 Fri PM  3:26 GMT   : 
+* 16-11-2018 Fri PM  3:27 GMT   : 12-13°C (Coventry, United Kingdom)
+* 16-11-2018 Fri PM  4:15 GMT   : 12-13°C (Coventry, United Kingdom)
+* 16-11-2018 Fri PM  4:17 GMT   : 12-13°C (Coventry, United Kingdom)
+* 16-11-2018 Fri PM  4:21 GMT   : 12-13°C (Coventry, United Kingdom)
+* 16-11-2018 Fri PM  4:24 GMT   : 12-13°C (Coventry, United Kingdom)
+* 16-11-2018 Fri PM  4:27 GMT   : 12-13°C (Coventry, United Kingdom)
+* 16-11-2018 Fri PM  4:36 GMT   : 12-13°C (Coventry, United Kingdom)
+* 16-11-2018 Fri PM  4:38 GMT   : 12-13°C (Coventry, United Kingdom)
+* 16-11-2018 Fri PM  4:39 GMT   : 12-13°C (Coventry, United Kingdom)
+* 16-11-2018 Fri PM  4:45 GMT   : 12-13°C (Coventry, United Kingdom)
