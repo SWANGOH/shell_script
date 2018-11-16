@@ -19,4 +19,4 @@ DATE=`date "+%d-%m-%Y %a %p %l:%M %Z"`
  git add .
  git commit -m "update Today's log:)"
 # git remote add origin https://github.com/SWANGOH/shell_script.git
-git push -f origin master
+git push -u origin master
